@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 def add():
   return "hi"
-  
+def mul():
+	
+=======
+>>>>>>> d39bce3 (this is second rebase)
